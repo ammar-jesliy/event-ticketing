@@ -2,6 +2,8 @@
 
 This project is a comprehensive event ticketing system that integrates a frontend built with Angular, a backend using Spring Boot and MongoDB, and a command-line interface (CLI) to simulate the process of multiple customers and vendors using the system at the same time. The application aims to provide a seamless and efficient way to manage events, vendors, customers, tickets, and transactions, ensuring a smooth user experience from start to finish.
 
+![Demo Image](https://github.com/ammar-jesliy/event-ticketing/blob/a84ca9f758014a0098b8313ebe9c51ba192499c0/event-ticketing-screenshot.png)
+
 ---
 
 ## Table of Contents
